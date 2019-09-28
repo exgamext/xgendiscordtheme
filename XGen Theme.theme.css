@@ -5,9 +5,9 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 :root {
 --customFont: 'Titillium Web';
---primary: #8080ff;
---primaryGradient1: #8080ff;
---primaryGradient2: #0000a0;
---backgroundDark: #111111;
---backgroundDarker: #222222;
+--primary: #39A0ED;
+--primaryGradient1: #39A0ED;
+--primaryGradient2: #1B263B;
+--backgroundDark: #080F17;
+--backgroundDarker: #111111;
 }
