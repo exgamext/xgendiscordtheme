@@ -1,0 +1,14 @@
+//META{"name":"XGen Theme","description":"XGen Official Theme","author":"Thiago Vieira","version":"1.0"}*//
+@import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
+@import url(https://codedotspectra.github.io/themes/mini-themes/customFont.css);
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+:root {
+--customFont: 'Titillium Web';
+--primary: #8080ff;
+--primaryGradient1: #8080ff;
+--primaryGradient2: #0000a0;
+--backgroundDark: #111111;
+--backgroundDarker: #222222;
+}
