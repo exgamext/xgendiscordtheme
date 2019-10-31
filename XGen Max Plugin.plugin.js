@@ -1,5 +1,3 @@
-//META{"name":"XGen Max Plugin"}*//
-
 class BetterEmoteSizes {
 
 	getName() { return "Emote Zoom"; }
