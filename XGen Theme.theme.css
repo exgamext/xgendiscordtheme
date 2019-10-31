@@ -1,7 +1,7 @@
 @import url("https://codedotspectra.github.io/themes/nocturnal/importCSS/core.css");
-@import url(https://codedotspectra.github.io/themes/mini-themes/customFont.css);
-/*@import url('https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css');*/
-@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');
+@import url(https://codedotspectra.github.io/themes/mini-themes/customFont.css);/*
+@import url('https://codedotspectra.github.io/themes/mini-themes/compactMemberList.css');
+@import url('https://codedotspectra.github.io/themes/mini-themes/statusRounded.css');*/
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
 :root {
 --customFont: 'Titillium Web';
