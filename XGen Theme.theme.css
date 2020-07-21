@@ -15,6 +15,19 @@
 }
 
 
+/*Discord Name Rainbow*/
+
+@keyframes rainbow {
+  0%   {fill: #ff0033;}
+  33.3333333333%  {fill: lime;}
+  66.6666666666%  {fill: cyan;}
+  100% {fill: #ff0033;}
+}
+#app-mount > div.typeWindows-1za-n7.titleBar-AC4pGV.horizontalReverse-3tRjY7.flex-1O1GKY.directionRowReverse-m8IjIq.justifyStart-2NDFzi.alignStretch-DpGPf3 > div.wordmark-2iDDfm > svg > path {
+  animation-name: rainbow;
+  animation-duration: 5s;
+  animation-iteration-count: infinite;
+}
 
 
 /* Rainbow Mention*/
